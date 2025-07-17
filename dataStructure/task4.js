@@ -1,3 +1,4 @@
+// deep comparison
 function deepEqual(a, b) {
   if (arguments.length < 2) {
     throw new Error("deepEqual requires two arguments");
