@@ -1,3 +1,5 @@
+// Dominant writing direction
+
 // Sample SCRIPTS array with only a couple of scripts
 const SCRIPTS = [
   {
